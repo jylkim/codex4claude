@@ -28,8 +28,11 @@ Deep technical analysis using `gpt-5.1-codex-max`. Runs in a read-only sandbox a
 
 ## Installation
 
-```bash
-claude plugin add jylkim/codex4claude
+Register the marketplace, then install:
+
+```
+/plugin marketplace add jylkim/codex4claude
+/plugin install codex4claude
 ```
 
 ## Usage

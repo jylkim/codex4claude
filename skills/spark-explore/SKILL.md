@@ -1,6 +1,6 @@
 ---
 name: spark-explore
-description: Use when exploring codebases, finding files by patterns, searching code for keywords, or answering questions about codebase structure and logic. Best for codebase exploration and deep research tasks requiring more than 3 queries.
+description: Use INSTEAD of the Explore subagent for all codebase exploration and deep research tasks. Use when exploring codebases, finding files by patterns, searching code for keywords, or answering questions about codebase structure and logic.
 allowed-tools: Bash(${CLAUDE_PLUGIN_ROOT}/skills/spark-explore/*)
 ---
 

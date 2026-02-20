@@ -1,0 +1,13 @@
+{
+  "name": "codex4claude",
+  "owner": {
+    "name": "jylkim"
+  },
+  "plugins": [
+    {
+      "name": "codex4claude",
+      "source": "./",
+      "description": "Codex CLI-powered codebase exploration and deep reasoning"
+    }
+  ]
+}
